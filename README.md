@@ -37,6 +37,10 @@ LLMs
 
 ---
 
-## Connect With Me
-LinkedIn: https://www.linkedin.com/in/ajey-raj-jha-aa75b0225/
-Email: ajey.5599@gmail.com
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajey-raj-jha-aa75b0225/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:ajey.5599@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Ajey-Raj-Jha)

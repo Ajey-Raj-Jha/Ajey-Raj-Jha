@@ -40,4 +40,8 @@ LLMs
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajey-raj-jha-aa75b0225/) [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:ajey.5599@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Ajey-Raj-Jha)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajey-Raj-Jha&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajey-Raj-Jha&layout=compact&theme=tokyonight)
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)

@@ -9,14 +9,8 @@ I work with data to extract insights, build analytics dashboards, and develop ma
 
 ---
 ## Languages
-
-![Python](https://skillicons.dev/icons?i=python)
-![Pandas](https://skillicons.dev/icons?i=python)
-![SQL](https://skillicons.dev/icons?i=mysql)
-![PowerBI](https://skillicons.dev/icons?i=powerbi)
-![Git](https://skillicons.dev/icons?i=git)
-![AWS](https://skillicons.dev/icons?i=aws)
-
+Python • SQL • Pandas • NumPy • Machine Learning • Statistics  
+Power BI • Tableau • Excel • Data Visualization 
 
 ---
 

@@ -16,14 +16,23 @@ Power BI • Tableau • Excel • Data Visualization
 
 ## Projects
 
-### SmartVision AI – Object Detection System
-Built a YOLOv8-based multi-class object detection system with a Streamlit interface.
+### SmartVision AI – Intelligent Object Detection System
+Developed a multi-class object detection system using YOLOv8 to identify real-world objects in images.  
+The system includes a Streamlit-based interface that allows users to upload images and receive real-time object detection results.
 
-### Amazon Sales Analytics
-Performed data analysis to identify revenue drivers and customer trends.
 
-### PatrolIQ
-System for monitoring and analysis with Python backend and analytics components.
+### Amazon India – A Decade of Sales Analytics
+Built an end-to-end e-commerce analytics project analyzing nearly one million Amazon India transactions from 2015–2025.
+
+### Cricbuzz LiveStats Dashboard
+Created an interactive cricket analytics dashboard that integrates the Cricbuzz API with a MySQL database to display live match data and player statistics.
+
+
+### EMI Predict AI – Financial Risk Assessment Platform
+Developed a machine learning system that predicts EMI eligibility and maximum affordable EMI amount based on customer financial profiles.
+
+### PatrolIQ – Monitoring and Analytics Platform
+Developed a Python-based monitoring and analytics system designed for structured data analysis and operational insights.
 
 ---
 

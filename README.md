@@ -1,5 +1,7 @@
 # Hi 👋 I'm Ajey Jha
 
+![](https://komarev.com/ghpvc/?username=Ajey-Raj-Jha&color=blue)
+
 📊 Data Analyst / Data Science Enthusiast  
 ☁️ AWS Certified Cloud Practitioner  
 

@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Ajey Jha
 
-<!--
-**Ajey-Raj-Jha/Ajey-Raj-Jha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst / Data Science Enthusiast  
+☁️ AWS Certified Cloud Practitioner  
 
-Here are some ideas to get you started:
+I work with data to extract insights, build analytics dashboards, and develop machine learning solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+Python • SQL • Pandas • NumPy • Machine Learning  
+Power BI • Excel • Data Visualization • Statistics  
+
+---
+
+## Projects
+
+### SmartVision AI – Object Detection System
+Built a YOLOv8-based multi-class object detection system with a Streamlit interface.
+
+### Amazon Sales Analytics
+Performed data analysis to identify revenue drivers and customer trends.
+
+### PatrolIQ
+System for monitoring and analysis with Python backend and analytics components.
+
+---
+
+## Currently Improving:
+Advanced SQL  
+Machine Learning  
+Data Engineering fundamentals
+Deep Learning
+LLMs
+
+---
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/ajey-raj-jha-aa75b0225/
+Email: ajey.5599@gmail.com

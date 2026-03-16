@@ -8,10 +8,15 @@
 I work with data to extract insights, build analytics dashboards, and develop machine learning solutions.
 
 ---
+## Languages
 
-## Skills
-Python • SQL • Pandas • NumPy • Machine Learning  
-Power BI • Excel • Data Visualization • Statistics  
+![Python](https://skillicons.dev/icons?i=python)
+![Pandas](https://skillicons.dev/icons?i=python)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![PowerBI](https://skillicons.dev/icons?i=powerbi)
+![Git](https://skillicons.dev/icons?i=git)
+![AWS](https://skillicons.dev/icons?i=aws)
+
 
 ---
 
@@ -36,7 +41,6 @@ Deep Learning
 LLMs
 
 ---
-
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajey-raj-jha-aa75b0225/)
